@@ -217,7 +217,7 @@ const { $generalStore, $userStore, $profileStore } = useNuxtApp()
 const route = useRoute()
 const router = useRouter()
 
-definePageMeta({ middleware: 'auth' })
+// definePageMeta({ middleware: 'auth' })
 
 let video = ref(null)
 let isLoaded = ref(false)
