@@ -42,7 +42,7 @@
                     <img 
                         class="absolute right-2 bottom-14" 
                         width="90" 
-                        src="~/assets/image/digtok-03.png"
+                        src="../assets/images/digitok-03.png"
                     >
                 </div>
                 <div class="relative mr-[75px]">
